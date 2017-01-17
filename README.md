@@ -2,5 +2,5 @@
 homework !!
 
 # hello
-[] Hi
-[x] bye [[link]]
+-[] Hi
+-[x] bye [[link]]
