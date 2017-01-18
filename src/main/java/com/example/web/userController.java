@@ -39,6 +39,7 @@ public class userController {
 		return "redirect:/user/list2";
 
 	}
+	
 
 	@GetMapping("/list2")
 	public String list(Model model) {
